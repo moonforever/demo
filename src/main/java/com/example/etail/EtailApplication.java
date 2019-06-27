@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EtailApplication {
 
 	public static void main(String[] args) {
-		//let it go
+		//let it go!
 		SpringApplication.run(EtailApplication.class, args);
 	}
 
